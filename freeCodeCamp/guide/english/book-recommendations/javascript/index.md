@@ -33,3 +33,11 @@ A collection of articles covering the basics (core language and working with a b
 A very fun and easy book for beginners. 
 
 - [Amazon](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+
+*Learning JavaScript*
+Book by 	Shelley Powers 	O'Reilly Media Publications
+-[Download](http://libgen.io/book/index.php?md5=435300417DAA07DA04657B019F2DB11A)
+
+*JavaScript for Dummies*
+Author:	Emily A. Vander Veer 	Wiley Publications
+-[Download](http://libgen.io/book/index.php?md5=CAC3E9CB8CA2B9D300BBB69E2DF6F61A)
